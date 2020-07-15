@@ -1,0 +1,189 @@
+a img{border:none;}
+body {
+	background-color: #000000;
+	color:#ffffff;
+	padding: 0;
+	margin: 0;
+	font: 12px Arial,Arial,Arial Sans-Serif;
+	font-size: 13px;
+}
+h1, h2, h3, td{
+color:#ffffff;
+}
+a {
+color:#ffffff;
+}
+a:hover {
+	filter:alpha(opacity=50);   
+	-moz-opacity: 0.5;   
+	opacity: 0.5;
+	}
+.page {
+background-color:#000000;
+position: relative;
+left: 50%;
+width: 800px;
+margin-left: -400px;
+font-size: 13px;
+}
+* h1 {
+font-size:14px;
+font-weight:bold;
+margin-bottom:10px;
+padding-bottom:0px;
+}
+
+* h2 {
+font-size:12px;
+font-weight:bold;
+}
+.title {
+padding: 30px 0px 10px 90px;
+font-size:12px;
+}
+.data {
+padding-left:0px;
+line-height: 10px;
+}
+.diaporama {
+padding :0px;
+clear: both;
+}
+.diaporama2 {
+padding :0px 0px 0px 0px;
+clear: both;
+border-top:1px solid #BBBBBB; 
+margin-top:5px;
+}
+
+.diaporama img {
+display:inline;
+border:0;
+padding-right:2px;
+padding-bottom:2px;
+max-height:400px;
+}
+dt, dl, dd {
+list-style-type: none;
+margin: 0 10px 0 0;
+padding: 0;
+}
+ul.nav {
+	text-align: left;
+	float:left;
+}
+
+ul.nav li {
+	float: left;
+	margin:0;
+	list-style-type: none;
+	padding-right: 13px ;
+	text-align: left;
+	font-size: 13px;$
+
+}
+ul.nav li a {
+	color: #ccc;
+}
+ul.nav li a.selected {
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+}
+#logo {
+float: right;
+padding:0;
+margin:0;
+}
+ul.subnav {
+text-align: left;
+padding: 15px 0 15px 0;
+}
+ul.subnav li {
+	float: left;
+	margin:0;
+	list-style-type: none;
+	padding: 0 13px 0 0;
+	text-align: left;
+	font-size: 13px;
+}
+ul.subnav li a {
+	color: #ccc;
+}
+ul.subnav li a.selected {
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+}
+.photo {
+	padding: 20px 20px 0 0;
+	margin: 0;
+    text-align: center;
+}
+.photo img{
+	height:450px;
+}
+.legend {
+	position: relative;
+	text-align: left;
+}
+.legend500 {
+	position: relative;
+	text-align: left;
+}.legend380{
+	position: relative;
+	text-align: left;
+}
+.bio {
+	clear: both;
+}
+.bio h2 {
+	float:left;
+	text-align:left;
+	padding:0;
+	margin:0;
+    font-size:12px;
+}
+
+.bio p {
+	margin:0px 10px 10px 10px;
+	text-align:justify;
+    font-size:13px;
+}
+
+.bio ul {
+	list-style-type: none;
+}
+
+.bio li,.press li{
+	padding-bottom:0.4em;
+}
+
+.bio td{
+	vertical-align:top;	
+	font-weight:normal;
+	padding:0.4em 0.4em;
+	line-height: 20px;
+}
+.page ul{
+	list-style-type: none;
+}
+.page li{
+	padding:0.4em 0em;
+	line-height:20px;
+}
+
+.diaporama2 a {
+	text-decoration:none;
+}
+.link {
+	text-decoration:underline;
+}
+
+.cover {
+	float: right;
+	right: 0px;
+	top: 0px;
+	width:160px;
+	margin-top:0px;
+}

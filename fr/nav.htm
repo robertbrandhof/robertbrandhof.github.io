@@ -1,0 +1,21 @@
+<?php
+$page = $_SERVER['PHP_SELF'];
+$rep = "/";
+ ?>
+ 
+
+	<div id="logo"><a href="<?php echo $rep;?>../index.php"><img src="<?php echo $rep;?><../../img/logo3.jpg "alt="accueil" /></a></div>
+
+	<div class="navmenu" style="height:80px;">
+		<ul class="nav">
+			<li><a href="<?php echo $rep;?>fr/figuration/figuration.php" <?php if($page==$rep."/fr/figuration/figuration.php") echo'class="selected"'; ?>>&oelig;uvres 1982-1985</a></li>
+			<li><a href="<?php echo $rep;?>fr/dessin/dessin.php" <?php if($page==$rep."/fr/dessin/dessin.php") echo'class="selected"'; ?>>dessins</a></li>
+			<li><a href="<?php echo $rep;?>fr/livres/livres.php" <?php if($page==$rep."/fr/livres/livres.php") echo'class="selected"'; ?>>livres d'artiste</a></li>
+			<li><a href="<?php echo $rep;?>fr/ceramiques/ceramiques.php" <?php if($page==$rep."/fr/ceramiques/ceramiques.php") echo'class="selected"'; ?>>Poterie de Ciboure</a></li>
+			<li><a href="<?php echo $rep;?>fr/paysbasque/pays-basque.php" <?php if($page==$rep."/fr/paysbasque/pays-basque.php") echo'class="selected"'; ?>>le Pays Basque</a></li>
+<br/>			<li><a href="<?php echo $rep;?>fr/biographie.php" <?php if($page==$rep."/fr/biographie.php") echo'class="selected"'; ?>>biographie</a></li>
+			<li><a href="<?php echo $rep;?>fr/expositions.php" <?php if($page==$rep."/fr/expositions.php") echo'class="selected"'; ?>>expositions</a></li>
+			<li><a href="<?php echo $rep;?>fr/bibliographie.php" <?php if($page==$rep."/fr/bibliographie.php") echo'class="selected"'; ?>>bibliographie</a></li>
+			<li><a href="<?php echo $rep;?>fr/links.php" <?php if($page==$rep."/fr/links.php") echo'class="selected"'; ?>>liens</a></li>
+		</ul>
+	</div>
