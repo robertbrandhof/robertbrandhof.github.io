@@ -2,19 +2,19 @@
 <?xml-stylesheet type="text/css" href="http://robertbrandhof.com/xml.css"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
 	http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url> <loc>http://robertbrandhof.com/index.php</loc> <lastmod>2019-06-25</lastmod></url>
+<url> <loc>http://robertbrandhof.com/index.html</loc> <lastmod>2019-06-25</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/poterie-de-ciboure-1993-max-fisher.html</loc> <lastmod>2019-07-03</lastmod></url>
-<url> <loc>http://robertbrandhof.com/fr/bibliographie.php</loc> <lastmod>2019-06-25</lastmod></url>
-<url> <loc>http://robertbrandhof.com/fr/biographie.php</loc> <lastmod>2019-06-25</lastmod></url>
-<url> <loc>http://robertbrandhof.com/fr/blog.php</loc> <lastmod>2019-06-25</lastmod></url>
+<url> <loc>http://robertbrandhof.com/fr/bibliographie.html</loc> <lastmod>2019-06-25</lastmod></url>
+<url> <loc>http://robertbrandhof.com/fr/biographie.html</loc> <lastmod>2019-06-25</lastmod></url>
+<url> <loc>http://robertbrandhof.com/fr/blog.html</loc> <lastmod>2019-06-25</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/Brandhof-radiokultura-20090305-2.mp3</loc> <lastmod>2019-06-14</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/Brandhof-radiokultura-20090305-2.ogg</loc> <lastmod>2019-06-14</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/bussum.html</loc> <lastmod>2019-06-18</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/couverture-cap-ferret.html</loc> <lastmod>2019-06-25</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/couverture-cordoba.html</loc> <lastmod>2019-06-25</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/detail-phare-cap-ferret.html</loc> <lastmod>2019-06-25</lastmod></url>
-<url> <loc>http://robertbrandhof.com/fr/expositions.php</loc> <lastmod>2019-06-25</lastmod></url>
-<url> <loc>http://robertbrandhof.com/fr/links.php</loc> <lastmod>2019-06-25</lastmod></url>
+<url> <loc>http://robertbrandhof.com/fr/expositions.html</loc> <lastmod>2019-06-25</lastmod></url>
+<url> <loc>http://robertbrandhof.com/fr/links.html</loc> <lastmod>2019-06-25</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/nav.htm</loc> <lastmod>2019-06-25</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/ceramiques/aroma.html</loc> <lastmod>2019-06-06</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/ceramiques/assiette-bouteille.html</loc> <lastmod>2019-06-06</lastmod></url>
@@ -32,7 +32,7 @@
 <url> <loc>http://robertbrandhof.com/fr/ceramiques/ceram-3.html</loc> <lastmod>2019-06-06</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/ceramiques/ceram-4.html</loc> <lastmod>2019-06-06</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/ceramiques/ceram-7.html</loc> <lastmod>2019-06-06</lastmod></url>
-<url> <loc>http://robertbrandhof.com/fr/ceramiques/ceramiques.php</loc> <lastmod>2019-06-01</lastmod></url>
+<url> <loc>http://robertbrandhof.com/fr/ceramiques/ceramiques.html</loc> <lastmod>2019-06-01</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/ceramiques/espadrilles.html</loc> <lastmod>2019-06-06</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/ceramiques/malette.html</loc> <lastmod>2019-06-06</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/ceramiques/nu-allonge.html</loc> <lastmod>2019-06-06</lastmod></url>
@@ -43,7 +43,7 @@
 <url> <loc>http://robertbrandhof.com/fr/dessin/bouteille-negatif.html</loc> <lastmod>2019-06-25</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/dessin/bouteille-positif.html</loc> <lastmod>2019-06-25</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/dessin/dessin-enveloppe.html</loc> <lastmod>2019-06-25</lastmod></url>
-<url> <loc>http://robertbrandhof.com/fr/dessin/dessin.php</loc> <lastmod>2019-06-18</lastmod></url>
+<url> <loc>http://robertbrandhof.com/fr/dessin/dessin.html</loc> <lastmod>2019-06-18</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/dessin/dessin1.html</loc> <lastmod>2019-06-25</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/dessin/dessin2.html</loc> <lastmod>2019-06-25</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/dessin/ephebe-agde.html</loc> <lastmod>2019-06-25</lastmod></url>
@@ -71,7 +71,7 @@
 <url> <loc>http://robertbrandhof.com/fr/figuration/didier-2.html</loc> <lastmod>2019-06-25</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/figuration/didier.html</loc> <lastmod>2019-06-25</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/figuration/femme.html</loc> <lastmod>2019-06-25</lastmod></url>
-<url> <loc>http://robertbrandhof.com/fr/figuration/figuration.php</loc> <lastmod>2019-06-05</lastmod></url>
+<url> <loc>http://robertbrandhof.com/fr/figuration/figuration.html</loc> <lastmod>2019-06-05</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/figuration/grand-pere.html</loc> <lastmod>2019-06-25</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/figuration/lisa.html</loc> <lastmod>2019-06-25</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/figuration/monvelo.html</loc> <lastmod>2019-06-25</lastmod></url>
@@ -94,7 +94,7 @@
 <url> <loc>http://robertbrandhof.com/fr/livres/dessin-original.html</loc> <lastmod>2019-06-06</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/livres/dessin_original.html</loc> <lastmod>2019-06-06</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/livres/helio-le-corrone.html</loc> <lastmod>2019-06-06</lastmod></url>
-<url> <loc>http://robertbrandhof.com/fr/livres/livres.php</loc> <lastmod>2019-06-25</lastmod></url>
+<url> <loc>http://robertbrandhof.com/fr/livres/livres.html</loc> <lastmod>2019-06-25</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/livres/maternite-cover.html</loc> <lastmod>2019-06-25</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/livres/maternite-poster.html</loc> <lastmod>2019-06-06</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/livres/maternite-reliure.html</loc> <lastmod>2019-06-06</lastmod></url>
@@ -132,7 +132,7 @@
 <url> <loc>http://robertbrandhof.com/fr/paysbasque/1997-trinquete-anchitonea-elizondo-croquis.html</loc> <lastmod>2019-06-25</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/paysbasque/1997-trinquete-anchitonea-elizondo.html</loc> <lastmod>2019-06-25</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/paysbasque/1997-trinquete-ancitonea-elizondo.html</loc> <lastmod>2019-06-25</lastmod></url>
-<url> <loc>http://robertbrandhof.com/fr/paysbasque/pays-basque.php</loc> <lastmod>2019-06-25</lastmod></url>
+<url> <loc>http://robertbrandhof.com/fr/paysbasque/pays-basque.html</loc> <lastmod>2019-06-25</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/paysbasque/dessins/1992-lithographie-mourlot-phare-biarritz.html</loc> <lastmod>2019-06-25</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/paysbasque/dessins/1996-trinquet-moderne-bayonne-dessin.html</loc> <lastmod>2019-06-25</lastmod></url>
 <url> <loc>http://robertbrandhof.com/fr/paysbasque/dessins/2002-chais-pecheurs-ciboure-dessin.html</loc> <lastmod>2019-06-25</lastmod></url>

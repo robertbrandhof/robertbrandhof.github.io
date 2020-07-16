@@ -23,7 +23,7 @@
 	  <p>
 
 	    <a href="1996-portail-pisciculture-urepel.html"><img src="../../img/previous.jpg" align="absmiddle"/></a> 
-	    <a href="pays-basque.php">retour</a>
+	    <a href="pays-basque.html">retour</a>
 		<a href="1997-trinquet-du-golf-biarritz.html"><img src="../../img/next.jpg" align="absmiddle"/></a>
 	  </p>
 	</div>

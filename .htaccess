@@ -1,4 +1,4 @@
 #redirections normalisées.com
-redirect 301 /fr/biography.html http://robertbrandhof.com/fr/biographie.php
-redirect 301 /fr/bibliography.html http://robertbrandhof.com/fr/bibliographie.php
+redirect 301 /fr/biography.html http://robertbrandhof.com/fr/biographie.html
+redirect 301 /fr/bibliography.html http://robertbrandhof.com/fr/bibliographie.html
 
