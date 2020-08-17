@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr">
 
 <head>
-<title> Trinquet de Saint-Martin à Biarritz</title>
+<title> Trinquet de Saint-Martin &agrave; Biarritz</title>
 <meta name="description" content="robert brandhof" />
 <meta name="keywords" content="brandhof" />
 <meta name="robots" content="index,follow" />
