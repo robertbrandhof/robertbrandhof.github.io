@@ -18,7 +18,7 @@
 	<div align="right" style="height:80px;">
 	</div>
     <div class="bio">
-     <h1>Bibliographie (s&eacute;lection)</h1>
+     <h1>Bibliographie</h1>
      <div class="press">
 			 <ul>
 					<li >[Exposition, C&oacute;rdoba, Galer&iacute;a Studio 52, 1989].
@@ -26,7 +26,7 @@
 					<li >Gourley, Paula M. The Art of the Book in the United States, Two Views. 
 					In : La Reliure Actuelle - The Contemporary Bookbinding - 
 					Der Zeitgen&ouml;ssische Bucheinband. Luxembourg et Toulouse :
-					les Amis de la Reliure d'Art, &Eacute;mile van der Vekene, 1994, p.105-114 ISBN : 2.9599999.0.8</li>
+					les Amis de la Reliure d'Art, &Eacute;mile van der Vekene, 1994, p.105-114 &nbsp;&nbsp;ISBN : 2.9599999.0.8</li>
 					<li >[Exposition, Tuscaloosa, 5th Floor Book Arts Gallery, Gorgas Library, 1994]. 
 					Brandhof, Etudes pour une maternit&eacute;, Twelve Design Bindings. 
 					R&eacute;d. Paula M. Gourley, Univ. of Alabama, Craftsmen Printers, Inc., 1994, d&eacute;pliant [8]p. </li>				
@@ -45,10 +45,10 @@
 
 		<table>
 			<tr>
-				<td  style="text-align:center;" width=1%; align=center; ><img src="../img/dessin/femme_andalouse.jpg" height="172px;" /><p style="font-size:11px; font-style:italic;text-align:center;">Couverture catalogue Galer&iacute;a Studio 52<br/>C&oacute;rdoba 1989</p></td>
+				<td  style="text-align:center;" width=1%; align=center; ><img src="../img/dessin/femme_andalouse.jpg" height="172px;" /><p style="font-size:11px; font-style:italic;text-align:center;">Couverture catalogue Galer&iacute;a Studio 52<br/>C&oacute;rdoba Espagne 1989</p></td>
 				<td  width=1%; align=center><img src="../img/cover-twelve-design.jpg" height="250px;"/><p style="font-size:11px; font-style:italic;text-align:center;">Couverture catalogue Gorgas Library<br/>1994</p></td>
 				<td width=1%; align=center><img src="../img/lur.jpg" height="172px;" style="margin:auto;" />
-				<p style="font-size:11px; font-style:italic;text-align:center;">Couverture Lur, 2008,<br/> avec dessin "Deux chapeaux"</p>
+				<p style="font-size:11px; font-style:italic;text-align:center;">Couverture Lur, 2008,<br/> avec dessin "Deux chapeaux"<br/>Espagne</p>
 				</td>
 			</tr>
 		</table>

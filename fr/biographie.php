@@ -52,12 +52,12 @@
 				<td >r&eacute;alise un ensemble de 24 peintures intitul&eacute; &quot;Architectures du Pays Basque&quot; 
 					(dont font partie e.a. : 5 peintures de Saint-&Eacute;tienne-de-Ba&iuml;gorry et de ses environs 
 					r&eacute;alis&eacute;es sp&eacute;cialement pour le hall d&acute;entr&eacute;e de 
-					l&#039;H&ocirc;tel-Restaurant Arc&eacute; et une s&eacute;rie de 9 peintures de 1996 consacr&eacute;es au <a href="/fr/article-trinquet-moderne-SO-1996-08-08.html">Trinquet Moderne de Bayonne</a> 
+					<a href="./article-chez-arce-SO-1995-05-18.html">l&#039;H&ocirc;tel-Restaurant Arc&eacute;</a>  et une s&eacute;rie de 9 peintures de 1996 consacr&eacute;es au <a href="/fr/article-trinquet-moderne-SO-1996-08-08.html">Trinquet Moderne de Bayonne</a> 
 					d&#039;avant sa compl&egrave;te r&eacute;novation)
 				</br> En marge de cet ensemble, r&eacute;alise en 1994 une peinture du phare du Cap-Ferret (Gironde).
-				Cette peinture figurera sur la couverture de la revue <a href="/fr/couverture-cap-ferret.html">Maisons C&ocirc;t&eacute; Ouest n&ordm;20 en 1999</A></td>
+				Cette peinture figurera sur la couverture de la revue <a href="./couverture-cap-ferret.html">Maisons C&ocirc;t&eacute; Ouest n&ordm;20 en 1999</A></td>
 	   </tr><tr><td align=right>1994-1997</td>
-				<td >&quot;&Eacute;tudes pour une maternit&eacute;, Twelve Design Bindings&quot;, une exposition itin&eacute;rante de reliures dans des biblioth&egrave;ques am&eacute;ricaines et europ&eacute;ennes</td>
+				<td >&quot;&Eacute;tudes pour une maternit&eacute;, Twelve Design Bindings&quot;, une exposition itin&eacute;rante de reliures d&acute;art dans des biblioth&egrave;ques am&eacute;ricaines et europ&eacute;ennes</td>
 	   </tr><tr><td align=right>2005</td>
 				<td >r&eacute;alisation de son livre d&acute;artiste &quot;Chapeaux&quot;</td>
 	   </tr><tr><td align=right>2011</td>
