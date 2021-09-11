@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="keywords" content="robert brandhof,etudes pour une maternite,livres d'artiste,artist's books,poterie,art,ciboure">
+
+  {%- seo -%}
+  {%- feed_meta -%}
+  
+	<!-- fonts -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Roboto&family=Sorts+Mill+Goudy&display=swap" rel="stylesheet"> 
+
+	<!-- styles -->
+	<link rel="stylesheet" type="text/css" href="/assets/css/glightbox.min.css" />
+	<link rel="stylesheet" type="text/css" href="/assets/css/style.css" />
+
+	<!-- scripts -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+	<script src="/assets/js/code.js"></script>
+	<script src="/assets/js/glightbox.min.js"></script>
+
+	<!-- disable favicon requests -->
+	<link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgo=">
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-TZBQ4W65VW"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	  gtag('config', 'G-TZBQ4W65VW');
+	</script>
+</head>
+<body>
+	<header>
+  	<div id="logo">
+  		<a href="/"><img src="/assets/images/logo.png" alt="Robert Brandhof" title="Robert Brandhof" class="responsive"></a>
+  	</div>
+	  <div class="menu-button" id="menu-opener">
+	    <a href="#" onclick="return openMenu();" title="Ouvrir le menu">&#9776;</a>
+	  </div>
+	  <div class="menu-button" id="menu-closer">
+	  	<a href="#" onclick="return closeMenu();" title="Fermer le menu">&times;</a>
+	  </div>
+	  <div id="nav">
+	    <h2>Les oeuvres</h2>
+			<h3><a href="/1982-1985.html"{% if page.name == "1982-1985.html" %} class="selected"{% endif %}>De 1982 à 1985</a></h3>
+			<h3><a href="/dessins.html"{% if page.name == "dessins.html" %} class="selected"{% endif %}>Dessins</a></h3>
+			<h3><a href="/livres-artiste.html"{% if page.name == "livres-artiste.html" %} class="selected"{% endif %}>Livres d'artiste</a></h3>
+			<h3><a href="/poterie-ciboure.html"{% if page.name == "poterie-ciboure.html" %} class="selected"{% endif %}>La Poterie de Ciboure</a></h3>
+			<h3><a href="/pays-basque.html"{% if page.name == "pays-basque.html" %} class="selected"{% endif %}>Le Pays Basque</a></h3>
+
+			<h2>Parcours</h2>
+			<h3><a href="/biographie.html"{% if page.name == "biographie.html" %} class="selected"{% endif %}>Biographie</a></h3>
+			<h3><a href="/expositions.html"{% if page.name == "expositions.html" %} class="selected"{% endif %}>Expositions</a></h3>
+			<h3><a href="/bibliographie.html"{% if page.name == "bibliographie.html" %} class="selected"{% endif %}>Bibliographie</a></h3>
+			<h3><a href="/liens.html"{% if page.name == "liens.html" %} class="selected"{% endif %}>Liens</a></h3>
+			<h3><a href="/contact.html"{% if page.name == "contact.html" %} class="selected"{% endif %}>Contact</a></h3>
+		</div>
+	</header>
+
+	<div id="page">
+		<div id="main">
+			{{ content }}
+		</div>
+	</div>
+
+	<script type="text/javascript">
+		const lightbox = GLightbox({
+	  	openEffect: "none",
+	  	closeEffect: "none",
+	  	descPosition: "bottom",
+	  	moreText: "Plus"
+		});
+	</script>
+</body>
+</html>
